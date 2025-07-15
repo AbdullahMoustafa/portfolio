@@ -11,4 +11,4 @@ https://mohap.gov.ae/en/open-data
 
 Please note: All data displayed is simulated and used for demonstration purposes only, in accordance with strict data confidentiality standards.
 
-Tools: SAS Viya 4 ( SAS Visual Analytics, SAS Envirnoment Managment, SAS Streaming Analytics) , Tableau Desktop/ Server
+Tools: SAS Viya 4 ( SAS Visual Analytics, SAS Envirnoment Managment, SAS Streaming Analytics) , Tableau Desktop/ Server/ SQL
