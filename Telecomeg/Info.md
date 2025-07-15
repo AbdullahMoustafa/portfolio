@@ -5,3 +5,5 @@ As part of my work at Telecom Egypt, I developed two automated dashboards to mon
 
 
 ** Please note : The data presented in these dashboards is simulated and does not reflect actual customer information, in accordance with data confidentiality policies.
+
+Tools Used: Microsoft Power BI, Python
