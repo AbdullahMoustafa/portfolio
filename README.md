@@ -38,4 +38,4 @@ Most of the projects I’ve worked on involve sensitive governmental or customer
 • Business logic and structure may be referenced, but without revealing internal or private metrics.
 
 📧 Email: abdullahmoustafa03@gmail.com
-🔗 LinkedIn: linkedin.com/in/abdullah-moustafa
+🔗 LinkedIn: [linkedin.com/in/abdullah-moustafa](https://www.linkedin.com/in/abdullah-moustafa/)
