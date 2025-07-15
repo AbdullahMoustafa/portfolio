@@ -2,4 +2,11 @@ As a Lead Data Analyst at DataScience Middle East, I worked across various gover
 
 The sample shown here highlights part of my work with MOHAP, supporting both public and private sector initiatives aimed at enhancing services for businesses and citizens.
 
+Public Dashboards:
+Investors Dashboard
+https://mohap.gov.ae/en/investor-dashboard
+
+Facilities Dashboard
+https://mohap.gov.ae/en/open-data
+
 Please note: All data displayed is simulated and used for demonstration purposes only, in accordance with strict data confidentiality standards.
